@@ -17,10 +17,3 @@ input {
   background-color: CornflowerBlue;
 }
 
-.bottomBorder {
-  background-color: CornflowerBlue;
-  left: 0;
-  bottom: 100%;
-  height:20%;
-  width:100%;
-}
