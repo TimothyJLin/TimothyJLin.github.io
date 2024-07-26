@@ -7,7 +7,7 @@ p {
 }
 
 input {
-   height:200px;
+   height:20px;
   font-size:14pt;
 
 .topBorder {
@@ -18,7 +18,7 @@ input {
 }
 
 .bottomBorder {
-  background:CornflowerBlue;
+  background-color:CornflowerBlue;
   position:absolute;
   left: 0;
   right: 0;
