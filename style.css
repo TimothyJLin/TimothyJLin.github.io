@@ -18,8 +18,8 @@ input {
 }
 
 .bottomBorder {
-  background-color:CornflowerBlue;
-  position:absolute;
+  background-color: CornflowerBlue;
+  position: absolute;
   left: 0;
   right: 0;
   height:20%;
