@@ -17,3 +17,12 @@ input {
   background-color: CornflowerBlue;
 }
 
+.bottomBorder {
+  #bar{
+    background:CornflowerBlue;
+    position:absolute;
+    left: 0;
+    right: 0;
+    height:20%;
+    background-size:100%;      
+}
