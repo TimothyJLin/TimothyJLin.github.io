@@ -18,11 +18,10 @@ input {
 }
 
 .bottomBorder {
-  #bar{
-    background:CornflowerBlue;
-    position:absolute;
-    left: 0;
-    right: 0;
-    height:20%;
-    background-size:100%;      
+  background:CornflowerBlue;
+  position:absolute;
+  left: 0;
+  right: 0;
+  height:20%;
+  background-size:100%;      
 }
