@@ -23,8 +23,7 @@ input {
 .bottomBorder {
   margin:0px;  
   padding: 0px 2px 2px 3px;    
-  border-width: 2px;
-  border-bottom-width:2px;
+  height: 20%;
   position: absolute; bottom: 0
   background-color: CornflowerBlue;
 }
